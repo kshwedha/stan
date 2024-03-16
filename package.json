@@ -1,0 +1,12 @@
+{
+  "name": "stan_app",
+  "main": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "Math": "^0.0.1-security",
+    "mathjs": "^12.4.1",
+    "redis": "^4.6.13"
+  }
+}
